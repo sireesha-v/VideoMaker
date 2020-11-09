@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+.fLeft {
+    float: left;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
