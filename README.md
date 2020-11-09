@@ -1,11 +1,8 @@
-# Frontend Boiler Plate
-
-This project was bootstrapped with CRA.
 
 ## Stack
 
-1. Node (v14.7.0)
-2. npm (v6.14.7)
+
+ npm (v6.14.7)
 
 ## Available Scripts
 
@@ -83,8 +80,3 @@ react-scripts(3.2.0)
 redux(^4.0.5)
 redux-saga(^1.1.3)
 
-## How to use
-
-1. Clone the repo
-2. Remove the hidden git folder
-3. Start using as your own ;)
